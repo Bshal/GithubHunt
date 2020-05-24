@@ -1,1 +1,0 @@
-Create 'Client Id' and 'Client Secret' from github.com and paste it in '.env.local' file of this project 
