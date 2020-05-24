@@ -1,0 +1,6 @@
+Create 'Client Id' and 'Client Secret' from github.com and paste it in '.env.local' file of this project 
+Create '.env.local' file in the root foler and add:
+
+REACT_APP_GITHUB_CLIEND_ID = 'Paste your client id here'
+REACT_APP_GITHUB_CLIENT_SECRET = 'paste your client secret id here'
+
